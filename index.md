@@ -6,7 +6,7 @@
 
 ## Week 3 (Oct 24)
 
-+ We decided on the groups. Our group name is dataMungers and other members are:
++ We decided on the groups. Our group name is *dataMungers* and other members are:
 
     + Berkay Soyer
     + Feray Ece Topçu
