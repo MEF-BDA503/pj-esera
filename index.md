@@ -8,8 +8,8 @@
 
 + We decided on the groups. Our group name is dataMungers and other members are:
 
-    +++ Berkay Soyer
-    +++ Feray Ece Topçu
+    + Berkay Soyer
+    + Feray Ece Topçu
 
 + I decided 
 
