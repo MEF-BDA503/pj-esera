@@ -13,7 +13,7 @@
 
 + I decided to work __Marvel__ dataset. I dowloaded Marvel Data [Here](https://github.com/fivethirtyeight/data/blob/master/comic-characters/marvel-wikia-data.csv). You can see my work [Here](files/Marvel Final.html) . 
 
-+ Our Group progress journel is [Here](files/Marvel Final.html) .
++ __*dataMungers*__ progress journel is [Here](https://mef-bda503.github.io/gpj-datamunglers-2/) .
 
 ### Udacity 
 
