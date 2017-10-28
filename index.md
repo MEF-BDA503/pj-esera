@@ -11,7 +11,9 @@
     + Berkay Soyer
     + Feray Ece Topçu
 
-+ I decided to work __Marvel__ dataset. I dowloaded Marvel Data [Here](https://github.com/fivethirtyeight/data/blob/master/comic-characters/marvel-wikia-data.csv). You can see my work [Here](files/Marvel-Final.html) . 
++ I decided to work __Marvel__ dataset. I dowloaded Marvel Data [Here](https://github.com/fivethirtyeight/data/blob/master/comic-characters/marvel-wikia-data.csv). You can see my work [Here](files/Marvel Final.html) . 
+
++ Our Group progress journel is [Here](files/Marvel Final.html) .
 
 ### Udacity 
 
