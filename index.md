@@ -1,4 +1,4 @@
-# Progress Journal
+# *__Progress Journal__*
 
 ## Week 2 (Oct 10)
 
