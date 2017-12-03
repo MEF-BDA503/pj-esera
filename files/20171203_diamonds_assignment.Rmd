@@ -1,0 +1,114 @@
+
+
+## <span style="color:grey">__*Best Price for Diamonds*__</span>
+### Maded by <span style="color:orange">__*a.yetkin eser*__</span>
+
+
+* Discrete train and test dataset
+```{r message=FALSE,warning=FALSE}
+set.seed(503)
+library(tidyverse)
+diamonds_test <- diamonds %>% mutate(diamond_id = row_number()) %>% 
+    group_by(cut, color, clarity) %>% sample_frac(0.2) %>% ungroup()
+
+diamonds_train <- anti_join(diamonds %>% mutate(diamond_id = row_number()), 
+    diamonds_test, by = "diamond_id")
+
+dim(diamonds)
+dim(diamonds_train)
+dim(diamonds_test)
+
+head(diamonds_train)
+
+```
+
+
+
+
+* Load necessary package and look at inside of data
+```{r message=FALSE,warning=FALSE}
+
+library(dplyr)
+library(rpart)
+library(rpart.plot)
+
+
+glimpse(diamonds_train)
+summary(diamonds_train)
+
+```
+
+
+* Create formula for models and generate CART model.
+
+```{r message=FALSE,warning=FALSE}
+(formula <- as.formula(price ~ carat + cut + color + clarity + depth + table + x + y + z)) 
+
+m1 <- rpart(formula, data = diamonds_train, method = "anova")
+
+m1
+```
+
+* Visiulize model in different ways
+
+```{r message=FALSE,warning=FALSE}
+
+rpart.plot(m1, type = 4, digits = 3, fallen.leaves = TRUE)
+
+```
+
+```{r message=FALSE,warning=FALSE}
+
+rpart.plot(m1, type = 3, digits = 2, fallen.leaves = FALSE)
+
+```
+
+* Predict test dataset
+
+```{r message=FALSE,warning=FALSE}
+
+
+p1 <- predict(m1, diamonds_test)
+
+summary(p1)
+  
+```
+
+* Calculate to Mean Absulute Error(MAE), create our function
+
+```{r message=FALSE,warning=FALSE}
+
+MAE <- function(actual, predicted)  {mean(abs(actual - predicted))}
+
+MAE(diamonds_test$price, p1)
+  
+```
+
+* Calculate to Root Mean Squared Error(RMSE), create our function
+
+```{r message=FALSE,warning=FALSE}
+
+RMSE <- function(actual, predicted)  {sqrt(mean((actual - predicted)^2))}
+
+RMSE(diamonds_test$price, p1)
+  
+```
+
+
+* Compare CRAT model with Linear Model
+
+```{r message=FALSE,warning=FALSE}
+
+formula
+m2 <- lm(formula, diamonds_train)  
+p2 <- predict(m2, diamonds_test)
+
+MAE(diamonds_test$price, p2)
+RMSE(diamonds_test$price, p2)
+  
+```
+
+__Conclusion :__ Second model is predict better than Crat model based on MAE and RMSE
+
+### Reference
+* In this exercise i take some tips from [youtube video](https://www.youtube.com/watch?v=MoBw5PiW56k)
