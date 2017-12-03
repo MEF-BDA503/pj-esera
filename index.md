@@ -2,7 +2,7 @@
 
 ## Week 5 (Dec 03)
 
-+ My assignment pricing __diamonds__ with CART model is [Here](20171203_diamonds_assignment.html)
++ Pricing __diamonds__ with CART model is [Here](20171203_diamonds_assignment.html)
 
 ## Week 3 (Oct 24)
 
