@@ -2,7 +2,7 @@
 
 ## Week 5 (Dec 03)
 
-+ Pricing __diamonds__ with CART model is [Here](files/20171203_diamonds_assignment.html)
++ Pricing __diamonds__ with CART model is [Here](files/20171203_diamonds_assignment.htm)
 
 ## Week 3 (Oct 24)
 
