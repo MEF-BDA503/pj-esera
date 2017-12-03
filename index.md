@@ -1,5 +1,12 @@
 # *__Progress Journal__*
 
+## Week 5 (Dec 03)
+
++ My assignment pricing __diamonds__ with CART model is [Here](20171203_diamonds_assignment.html)
+
+    + Berkay Soyer
+    + Feray Ece Topçu
+
 ## Week 3 (Oct 24)
 
 + We decided on the groups. Our group name is __*dataMungers*__ and other members are:
