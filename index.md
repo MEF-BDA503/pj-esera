@@ -2,7 +2,7 @@
 
 ## Final Week (Jan 09)
 
-+ I created dataset from [https://istatistik.yok.gov.tr/]. My dataset name is university34.
++ I created dataset from [https://istatistik.yok.gov.tr/](https://istatistik.yok.gov.tr/). My dataset name is university34.
 
 + universities_34 dataset has information about which university has how many students in 1987 to 2017 in 5 years periods in Istanbul. You can download data from [here](https://mef-bda503.github.io/pj-esera/files/universities_34.RData)
 
