@@ -8,7 +8,7 @@
 
 ## Week 7 (Dec 19 2017)
 
-- I finished my group project with DataMunglers. [Here](https://mef-bda503.github.io/gpj-datamunglers-2/) you can find our group project github page.
+- I finished my group project with *__dataMunglers__*. [Here](https://mef-bda503.github.io/gpj-datamunglers-2/) you can find our group project github page.
 
 ## Week 5 (Dec 03 2017)
 
