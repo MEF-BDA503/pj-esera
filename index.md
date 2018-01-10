@@ -1,5 +1,9 @@
 # *__Progress Journal__*
 
+## Final Exam (Jan 10 2017)
+
+- My answer of final exams is in [PDF](https://mef-bda503.github.io/pj-esera/files/Ahmet Yetkin Eser - Final V2.pdf), [RMD](https://mef-bda503.github.io/pj-esera/files/final.RMD), [HTM](https://mef-bda503.github.io/pj-esera/files/Ahmet Yetkin Eser - Final.htm) formats.
+
 ## Final Week (Jan 09 2017)
 
 + I created dataset from [https://istatistik.yok.gov.tr/](https://istatistik.yok.gov.tr/). My dataset name is university34.
