@@ -2,7 +2,7 @@
 
 ## Final Exam (Jan 10 2017)
 
-- You can find my answers of final exam in [PDF](https://mef-bda503.github.io/pj-esera/files/Ahmet_Yetkin_Eser_Final_V2.pdf), [RMD](https://mef-bda503.github.io/pj-esera/files/final.RMD), [HTM](https://mef-bda503.github.io/pj-esera/files/Ahmet_Yetkin_Eser_Final.htm) formats.
+- You can find my answers of final exam in [PDF](https://mef-bda503.github.io/pj-esera/files/Ahmet_Yetkin_Eser_Final_V2.pdf), [RMD](https://mef-bda503.github.io/pj-esera/files/final.Rmd), [HTM](https://mef-bda503.github.io/pj-esera/files/Ahmet_Yetkin_Eser_Final.htm) formats.
 
 ## Final Week (Jan 09 2017)
 
