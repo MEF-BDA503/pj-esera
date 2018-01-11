@@ -13,8 +13,8 @@
 ### Datacamp and Udacity
 
 + I have finished courses in the below on DataCamp.
- - [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
- - [Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
+  - [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+  - [Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
  - [Introduction to Data](https://www.datacamp.com/courses/introduction-to-data)
  - [Exploratory Data Analysis](https://www.datacamp.com/courses/exploratory-data-analysis)
  - [Cleaning Data in R](https://www.datacamp.com/courses/cleaning-data-in-r)
