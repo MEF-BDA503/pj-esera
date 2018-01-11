@@ -10,6 +10,25 @@
 
 + universities_34 dataset has information about which university has how many students in 1987 to 2017 in 5 years periods in Istanbul. You can download data from [here](https://mef-bda503.github.io/pj-esera/files/universities_34.RData)
 
+### Datacamp and Udacity
+
++ I have finished course in the below on DataCamp.
+ - [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
+ - [Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
+ - [Introduction to Data](https://www.datacamp.com/courses/introduction-to-data)
+ - [Cleaning Data in R](https://www.datacamp.com/courses/cleaning-data-in-r)
+ - [Supervised Learning in R: Classification](https://www.datacamp.com/courses/supervised-learning-in-r-classification)
+ - [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse)
+ - [Correlation and Regression](https://www.datacamp.com/courses/correlation-and-regression)
+ - [Exploratory Data Analysis](https://www.datacamp.com/courses/exploratory-data-analysis)
+ - [Unsupervised Learning in R](https://www.datacamp.com/courses/unsupervised-learning-in-r)
+ - [Exploratory Data Analysis in R: Case Study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study)
+ - [Statistical Modeling in R (Part 1)](https://www.datacamp.com/courses/statistical-modeling-in-r-part-1)
+ - [Supervised Learning in R: Regression](https://www.datacamp.com/courses/supervised-learning-in-r-regression)
+ - [Foundations of Probability in R](https://www.datacamp.com/courses/foundations-of-probability-in-r)
+
++ I finished first three lessons on Udacity. I did all the work required and all the quizes.
+
 ## Week 7 (Dec 19 2017)
 
 - I finished my group project with *__dataMunglers__*. [Here](https://mef-bda503.github.io/gpj-datamunglers-2/) you can find __*dataMunglers*__ github page.
@@ -28,10 +47,6 @@
 + I decided to work __Marvel__ dataset. I dowloaded Marvel Data [Here](https://github.com/fivethirtyeight/data/blob/master/comic-characters/marvel-wikia-data.csv). You can see my work [Here](files/Marvel Final.html) . 
 
 + __*dataMungers*__ progress journel is [Here](https://mef-bda503.github.io/gpj-datamunglers-2/) .
-
-### Udacity 
-
-+ I finished first three lessons on Udacity. I did all the work required and all the quizes.
 
 ## Week 2 (Oct 10 2017)
 
