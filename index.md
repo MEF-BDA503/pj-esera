@@ -15,17 +15,17 @@
 + I have finished courses in the below on DataCamp.
   - [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)
   - [Data Manipulation in R with dplyr](https://www.datacamp.com/courses/dplyr-data-manipulation-r-tutorial)
- - [Introduction to Data](https://www.datacamp.com/courses/introduction-to-data)
- - [Exploratory Data Analysis](https://www.datacamp.com/courses/exploratory-data-analysis)
- - [Cleaning Data in R](https://www.datacamp.com/courses/cleaning-data-in-r)
- - [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse)
- - [Foundations of Probability in R](https://www.datacamp.com/courses/foundations-of-probability-in-r)
- - [Correlation and Regression](https://www.datacamp.com/courses/correlation-and-regression)
- - [Exploratory Data Analysis in R: Case Study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study)
- - [Statistical Modeling in R (Part 1)](https://www.datacamp.com/courses/statistical-modeling-in-r-part-1)
- - [Supervised Learning in R: Classification](https://www.datacamp.com/courses/supervised-learning-in-r-classification)
- - [Unsupervised Learning in R](https://www.datacamp.com/courses/unsupervised-learning-in-r)
- - [Supervised Learning in R: Regression](https://www.datacamp.com/courses/supervised-learning-in-r-regression)
+  - [Introduction to Data](https://www.datacamp.com/courses/introduction-to-data)
+  - [Exploratory Data Analysis](https://www.datacamp.com/courses/exploratory-data-analysis)
+  - [Cleaning Data in R](https://www.datacamp.com/courses/cleaning-data-in-r)
+  - [Introduction to the Tidyverse](https://www.datacamp.com/courses/introduction-to-the-tidyverse)
+  - [Foundations of Probability in R](https://www.datacamp.com/courses/foundations-of-probability-in-r)
+  - [Correlation and Regression](https://www.datacamp.com/courses/correlation-and-regression)
+  - [Exploratory Data Analysis in R: Case Study](https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study)
+  - [Statistical Modeling in R (Part 1)](https://www.datacamp.com/courses/statistical-modeling-in-r-part-1)
+  - [Supervised Learning in R: Classification](https://www.datacamp.com/courses/supervised-learning-in-r-classification)
+  - [Unsupervised Learning in R](https://www.datacamp.com/courses/unsupervised-learning-in-r)
+  - [Supervised Learning in R: Regression](https://www.datacamp.com/courses/supervised-learning-in-r-regression)
  
 + I finished first three lessons on Udacity. I did all the work required and all the quizes.
 
